@@ -1,0 +1,19 @@
+﻿cl : command line  warning D9002: ignoring unknown option '-march=native'
+  BL von Karman Velocity Profile.cpp
+  BL_Calculator.cpp
+D:\Document\Itb\OTODIDAK\Viscous Flow\BL von Karman Velocity Profile\BL von Karman Velocity Profile\BL_Calculator.h(6,29): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file 'BL%20von%20Karman%20Velocity%20Profile.cpp')
+  
+D:\Document\Itb\OTODIDAK\Viscous Flow\BL von Karman Velocity Profile\BL von Karman Velocity Profile\BL von Karman Velocity Profile.cpp(54,28): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+D:\Document\Itb\OTODIDAK\Viscous Flow\BL von Karman Velocity Profile\BL von Karman Velocity Profile\BL von Karman Velocity Profile.cpp(54,28): warning C4244:         with
+D:\Document\Itb\OTODIDAK\Viscous Flow\BL von Karman Velocity Profile\BL von Karman Velocity Profile\BL von Karman Velocity Profile.cpp(54,28): warning C4244:         [
+D:\Document\Itb\OTODIDAK\Viscous Flow\BL von Karman Velocity Profile\BL von Karman Velocity Profile\BL von Karman Velocity Profile.cpp(54,28): warning C4244:             _Rep=__int64
+D:\Document\Itb\OTODIDAK\Viscous Flow\BL von Karman Velocity Profile\BL von Karman Velocity Profile\BL von Karman Velocity Profile.cpp(54,28): warning C4244:         ]
+D:\Document\Itb\OTODIDAK\Viscous Flow\BL von Karman Velocity Profile\BL von Karman Velocity Profile\BL_Calculator.h(6,29): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file 'BL_Calculator.cpp')
+  
+D:\Document\Itb\OTODIDAK\Viscous Flow\BL von Karman Velocity Profile\BL von Karman Velocity Profile\BL_Calculator.cpp(80,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  BL von Karman Velocity Profile.vcxproj -> D:\Document\Itb\OTODIDAK\Viscous Flow\BL von Karman Velocity Profile\x64\Debug\BL von Karman Velocity Profile.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
