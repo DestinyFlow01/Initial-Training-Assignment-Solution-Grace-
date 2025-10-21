@@ -1,5 +1,5 @@
-# Initial-Training-Assignment-Solution
-Solution for Assignment in Initial Training Before Entering the Real Code
+# Preliminary-Training-Assignment-Solution
+Solution for Assignment in Preliminary Training Before Entering the Real Code
 
 There are 2 tasks (for now) to begin with : <br>
 1. Approximating boundary layer parameters (displacement thickness, momentum thickness, drag coefficient, etc.) for various velocity profiles and compared to Blausius results on flow over flat plate. This problem focuses on syntaxing, numerical method (numerical integration and numerical derivative) and design thinking. 
