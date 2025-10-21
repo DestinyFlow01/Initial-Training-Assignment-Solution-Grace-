@@ -9,4 +9,4 @@ There are 2 tasks (for now) to begin with : <br>
 <br>
 Note : 
 <br>
-You are allowed to complete task 1 as inefficient as you want (no parallelization, code optimization etc). However, starting task 2 and the next tasks, you are EXTREMELY REQUIRED to make the code as efficient as possible, since you will need it intensively in the real code. 
+You are allowed to complete task 1 as inefficient as you want (no parallelization, code optimization etc). However, starting task 2 and the next tasks, you are EXTREMELY REQUIRED to make the code as efficient (space and time complexity) as possible, since you will need it intensively in the real code. 
