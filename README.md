@@ -10,7 +10,7 @@ Solution for the preliminary training before entering the real code.
    Compute displacement thickness, momentum thickness, drag coefficient, etc. for various velocity profiles (Pohlhausen, Schlichting, Majdalani–Xuan, etc.) and compare them to Blasius results for flow over a flat plate.  
    *Focus:* syntax, numerical integration/derivatives, and design thinking.
 
-2. **Solving the original Blasius equation numerically**  
+2. **Solving the original Blasius equation numerically and obtain the corresponding boundary layer parameters**  
    This problem focuses on numerical derivatives, ODE solvers on semi‑infinite domains and domains with singularities, inverse problems, optimization, and code efficiency (space and time complexity).  
 
    The breakdown of methods:
